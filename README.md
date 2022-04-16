@@ -1,2 +1,2 @@
 # Internet-Explorer-13
-a Windows browser that uses its own engine instead of the WindowsForms WebBrowser control
+a Windows browser that uses its own engine instead of the WindowsForms WebBrowser control. Demo for BetterBrowser
